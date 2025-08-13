@@ -1,4 +1,4 @@
-# 🌐 Responsive Landing Page - Yash Vaswani
+# 🌐 Responsive Landing Page - Krish
 
 Welcome to my personal portfolio website! It's designed to highlight my skills, projects, and contact details as a creative web designer. This site is responsive and crafted using only HTML, CSS and JavaScript.
 
@@ -30,18 +30,13 @@ PRJ-01/
 └── style.css
 
 ## 🚀 How to Use
-1. Clone the repository:https://github.com/VaswaniYash/PRODIGY_WD_01/
+1. Clone the repository:https://github.com/krish/PRODIGY_WD_01/
 2.	Open index.html in your browser.
 
 🙋‍♂️ About Me
 
-I’m Yash Vaswani, a passionate web designer who loves to build creative and clean web interfaces. Feel free to connect with me!
+I’m Krish, a passionate web designer who loves to build creative and clean web interfaces. Feel free to connect with me!
 
-🔗 Connect With Me:-
-
-	1. LinkedIn:- https://www.linkedin.com/in/yash-vaswani-17a7b4297/
- 
-	2. GitHub:- https://github.com/VaswaniYash/
 
 📄 License
 
